@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "data_type": "Doctor",
+    "total": 1,
+    "count": 1
+  },
+  "data": [
+    {
+      "practices": [
+        {
+          "location_slug": "ca-san-francisco",
+          "lat": 37.800332,
+          "lon": -122.410973,
+          "uid": "fb41f996baaef0bca95592cd6bae28e1",
+          "name": "Washington Square Park Dental",
+          "website": "http://www.wsparkdental.com/",
+          "email": "wsparkdental@gmail.com",
+          "description": "We are a group of passionate dental professionals excited to care for your dental needs. At Washington Square Park Dental we are committed to providing our patients with exceptional dental care in a modern and relaxing environment. An emphasis is placed on patient education and preventative care as we utilize the latest dental technology and equipment. Our goal is to partner with our patients to help them achieve and maintain a lifetime of excellent oral health. Washington Square Park Dental is located in North Beach, San Francisco. The business was built to provide a superior dental experience. Situated in a LEED-certified space, WSPD offers cutting-edge technology, including handheld digital x-rays.",
+          "accepts_new_patients": true,
+          "image_urls": [
+            "https://asset1.betterdoctor.com/images/52714dadbf4cc805c600017c-1_original.jpg",
+            "https://asset4.betterdoctor.com/images/52714dc8bf4cc805c6000189-1_original.jpg",
+            "https://asset1.betterdoctor.com/images/52714df1bf4cc84690000022-1_original.jpg",
+            "https://asset2.betterdoctor.com/images/52714e26bf4cc8469000002f-1_original.jpg"
+          ],
+          "insurance_uids": [
+            "deltadental-deltadentalpremier"
+          ],
+          "visit_address": {
+            "city": "San Francisco",
+            "lat": 37.800332,
+            "lon": -122.410973,
+            "state": "CA",
+            "state_long": "California",
+            "street": "1719 Powell St",
+            "zip": "94133"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "4153984123",
+              "type": "fax"
+            },
+            {
+              "number": "4158919773",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+             "code": "en"
+            }
+          ],
+          "media": [
+            {
+              "uid": "544efc9c4214f8092300017c",
+              "status": "active",
+              "url": "https://asset3.betterdoctor.com/images/544efc9c4214f8092300017c-4_small.jpg",
+             "tags": [
+                "hero"
+              ],
+              "versions": {
+                "thumbnail": "https://asset2.betterdoctor.com/images/544efc9c4214f8092300017c-4_thumbnail.jpg",
+                "thumbnail2x": "https://asset2.betterdoctor.com/images/544efc9c4214f8092300017c-4_thumbnail2x.jpg",
+                "small": "https://asset3.betterdoctor.com/images/544efc9c4214f8092300017c-4_small.jpg",
+                "medium": "https://asset4.betterdoctor.com/images/544efc9c4214f8092300017c-4_medium.jpg",
+                "large": "https://asset3.betterdoctor.com/images/544efc9c4214f8092300017c-4_large.jpg",
+                "hero": "https://asset1.betterdoctor.com/images/544efc9c4214f8092300017c-4_hero.jpg"
+              }
+            },
+            {
+              "uid": "544efcc74214f84f33000010",
+              "status": "active",
+              "url": "https://asset1.betterdoctor.com/images/544efcc74214f84f33000010-2_small.jpg",
+              "tags": [],
+              "versions": {
+                "thumbnail": "https://asset2.betterdoctor.com/images/544efcc74214f84f33000010-2_thumbnail.jpg",
+                "thumbnail2x": "https://asset2.betterdoctor.com/images/544efcc74214f84f33000010-2_thumbnail2x.jpg",
+                "small": "https://asset1.betterdoctor.com/images/544efcc74214f84f33000010-2_small.jpg",
+                "medium": "https://asset4.betterdoctor.com/images/544efcc74214f84f33000010-2_medium.jpg",
+                "large": "https://asset2.betterdoctor.com/images/544efcc74214f84f33000010-2_large.jpg",
+                "hero": "https://asset2.betterdoctor.com/images/544efcc74214f84f33000010-2_hero.jpg"
+              }
+            },
+            {
+              "uid": "544efcea4214f82318000508",
+              "status": "active",
+              "url": "https://asset4.betterdoctor.com/images/544efcea4214f82318000508-2_small.jpg",
+              "tags": [],
+              "versions": {
+                "thumbnail": "https://asset2.betterdoctor.com/images/544efcea4214f82318000508-2_thumbnail.jpg",
+                "thumbnail2x": "https://asset4.betterdoctor.com/images/544efcea4214f82318000508-2_thumbnail2x.jpg",
+                "small": "https://asset4.betterdoctor.com/images/544efcea4214f82318000508-2_small.jpg",
+                "medium": "https://asset3.betterdoctor.com/images/544efcea4214f82318000508-2_medium.jpg",
+                "large": "https://asset2.betterdoctor.com/images/544efcea4214f82318000508-2_large.jpg",
+                "hero": "https://asset4.betterdoctor.com/images/544efcea4214f82318000508-2_hero.jpg"
+              }
+            },
+            {
+              "uid": "544efd194214f8231800052f",
+              "status": "active",
+              "url": "https://asset3.betterdoctor.com/images/544efd194214f8231800052f-2_small.jpg",
+              "tags": [],
+              "versions": {
+                "thumbnail": "https://asset1.betterdoctor.com/images/544efd194214f8231800052f-2_thumbnail.jpg",
+                "thumbnail2x": "https://asset3.betterdoctor.com/images/544efd194214f8231800052f-2_thumbnail2x.jpg",
+                "small": "https://asset3.betterdoctor.com/images/544efd194214f8231800052f-2_small.jpg",
+                "medium": "https://asset1.betterdoctor.com/images/544efd194214f8231800052f-2_medium.jpg",
+                "large": "https://asset1.betterdoctor.com/images/544efd194214f8231800052f-2_large.jpg",
+                "hero": "https://asset1.betterdoctor.com/images/544efd194214f8231800052f-2_hero.jpg"
+              }
+            },
+           {
+              "uid": "544efd394214f82bf4000197",
+              "status": "active",
+              "url": "https://asset2.betterdoctor.com/images/544efd394214f82bf4000197-2_small.jpg",
+              "tags": [],
+              "versions": {
+                "thumbnail": "https://asset1.betterdoctor.com/images/544efd394214f82bf4000197-2_thumbnail.jpg",
+                "thumbnail2x": "https://asset4.betterdoctor.com/images/544efd394214f82bf4000197-2_thumbnail2x.jpg",
+                "small": "https://asset2.betterdoctor.com/images/544efd394214f82bf4000197-2_small.jpg",
+                "medium": "https://asset4.betterdoctor.com/images/544efd394214f82bf4000197-2_medium.jpg",
+                "large": "https://asset2.betterdoctor.com/images/544efd394214f82bf4000197-2_large.jpg",
+                "hero": "https://asset1.betterdoctor.com/images/544efd394214f82bf4000197-2_hero.jpg"
+              }
+            },
+            {
+              "uid": "544efd574214f82bf40001c5",
+              "status": "active",
+              "url": "https://asset4.betterdoctor.com/images/544efd574214f82bf40001c5-2_small.jpg",
+              "tags": [],
+              "versions": {
+                "thumbnail": "https://asset2.betterdoctor.com/images/544efd574214f82bf40001c5-2_thumbnail.jpg",
+                "thumbnail2x": "https://asset4.betterdoctor.com/images/544efd574214f82bf40001c5-2_thumbnail2x.jpg",
+                "small": "https://asset4.betterdoctor.com/images/544efd574214f82bf40001c5-2_small.jpg",
+                "medium": "https://asset1.betterdoctor.com/images/544efd574214f82bf40001c5-2_medium.jpg",
+                "large": "https://asset4.betterdoctor.com/images/544efd574214f82bf40001c5-2_large.jpg",
+                "hero": "https://asset4.betterdoctor.com/images/544efd574214f82bf40001c5-2_hero.jpg"
+              }
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "school": "University of the Pacific - Arthur A. Dugoni School of Dentistry",
+          "graduation_year": "2009",
+          "degree": "DDS"
+        },
+        {
+          "school": "Santa Clara University",
+          "degree": "BS"
+        }
+      ],
+      "profile": {
+        "first_name": "Jared",
+        "middle_name": "Warren",
+        "last_name": "Pool",
+        "slug": "jared-pool",
+        "title": "DDS",
+        "image_url": "https://asset4.betterdoctor.com/images/57a8f19da44efc38ba004567-2_thumbnail.jpg",
+        "gender": "male",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Pool is a licensed general dentist. He co-founded Washington Square Dental with the aim of offering patients a new kind of experience at the dentist’s office. His goal is for patients to enjoy being in his office and to offer them an educational, transparent, and gentle experience.\n\nBeyond just helping his patients relax, Dr. Pool is committed to working with his patients as partners. He focuses on offering preventive dental care and keeping his patients healthy. When patients need more than a routine cleaning, he wants to be sure they understand his recommendations and can make informed decisions about their dental care.\n\nDr. Pool and his team offer all general dentistry services, including preventive care and comprehensive exams; cosmetic, prosthetic, restorative, periodontal work as well as implants, Invisalign placement and oral surgery.\n\nDr. Pool is a member of the American Dental Association, the California Dental Association, and the San Francisco Dental Society. Originally from Phoenix, Arizona, Dr. Pool graduated from Santa Clara University with Bachelor of Science degree. He completed dental school at the University of the Pacific - Arthur A. Dugoni School of Dentistry. He enjoys playing disc golf with friends in Golden Gate Park and is a Giants fan."
+      },
+      "ratings": [
+        {
+          "active": true,
+          "provider": "betterdoctor",
+          "provider_uid": "jared-pool",
+          "rating": 5,
+          "review_count": 0,
+          "image_url_small": "https://asset2.betterdoctor.com/assets/consumer/stars/stars-small-5.0.png",
+          "image_url_small_2x": "https://asset2.betterdoctor.com/assets/consumer/stars/stars-small-5.0@2x.png",
+          "image_url_large": "https://asset2.betterdoctor.com/assets/consumer/stars/stars-large-5.0.png",
+          "image_url_large_2x": "https://asset2.betterdoctor.com/assets/consumer/stars/stars-large-5.0@2x.png"
+        },
+        {
+          "active": true,
+          "provider": "yelp",
+          "provider_uid": "washington-square-park-dental-san-francisco",
+          "provider_url": "http://www.yelp.com/biz/washington-square-park-dental-san-francisco"
+        }
+      ],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "deltadental-deltadentalpremier",
+            "name": "Delta Dental Premier",
+            "category": [
+              "dental"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "deltadental",
+            "name": "Delta Dental"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "dentist",
+          "name": "Dentistry",
+          "description": "Specializes in teeth and oral health.",
+          "category": "dental",
+          "actor": "Dentist",
+          "actors": "Dentists"
+        }
+      ],
+      "licenses": [
+        {
+          "number": "58832",
+          "state": "CA",
+          "end_date": "2013-12-31"
+        }
+      ],
+      "uid": "333d4bb6fcf640e18e93b11b00fe09eb",
+      "npi": "1316276066"
+    }
+  ]
+}  

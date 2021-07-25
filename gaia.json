@@ -1,0 +1,76 @@
+{
+    "webpack": {
+        "targets": {
+            "dev": {
+                "libraryName": "Component",
+                "libraryTarget": "window",
+                "outputFolder": "./dist",
+                "fileName": "js/output.js",
+                "cssFileName": "css/output.css",
+                "sourceFolders": [
+                    "src/main/js",
+                    "src/main/less"
+                ],
+                "externals": {
+                    "MPageFusion": "MPageFusion",
+                    "classNames": "classnames",
+                    "FusionComponent": "FusionComponent"
+                },
+                "includePolyfills": true,
+                "entryPoints": {
+                    "component": "src/main/js/component/FindMyDoctor.js"
+                },
+                "devtool": "inline-source-map",
+                "envify": false,
+                "minify": false,
+                "includeCSS": false
+            },
+            "default": {
+                "libraryName": "Component",
+                "libraryTarget": "window",
+                "outputFolder": "./dist",
+                "fileName": "js/output.js",
+                "cssFileName": "css/output.css",
+                "sourceFolders": [
+                    "src/main/js",
+                    "src/main/less"
+                ],
+                "externals": {
+                    "MPageFusion": "MPageFusion",
+                    "classNames": "classnames",
+                    "FusionComponent": "FusionComponent"
+                },
+                "includePolyfills": true,
+                "entryPoints": {
+                    "component": "src/main/js/component/FindMyDoctor.js"
+                },
+                "devtool": "inline-source-map",
+                "envify": true,
+                "minify": true,
+                "includeCSS": false
+            }
+        }
+    },
+    "unit-testing": {
+        "browser": [
+            "Chrome"
+        ],
+        "singleRun": true,
+        "srcPath": "src/main",
+        "specPath": "src/__tests__/unit-tests/spec",
+        "mockPath": "src/__tests__/unit-tests/mock",
+        "spyPath": "src/__tests__/unit-tests/spy",
+        "usesFusion": true,
+        "target": null,
+        "externals": {
+            "MPageFusion": "MPageFusion",
+            "classNames": "classnames",
+            "FusionComponent": "FusionComponent"
+        },
+        "unitTestPath": "src/__tests__",
+        "testRunner": "KARMA"
+    },
+    "whatsupdoc": {
+        "files": "src/**/*.js"
+    }
+}

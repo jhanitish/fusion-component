@@ -1,0 +1,19 @@
+#Ignore generated folders
+node_modules/
+evidence/
+.vscode/
+.coverage/
+.svn
+.idea
+.project
+.grunt
+npm-debug.log
+working/
+.working
+.fusion/
+dist/
+target
+node
+dev.bat
+build.bat
+.DS_Store
